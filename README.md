@@ -23,9 +23,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [code-morse-decoder] <a name="about-project"></a>
+# 📖 [Enumerable] <a name="about-project"></a>
 
-**[code-morse-decoder]** Takes a message in code morse and translates it to words.
+**[Enumerable]** Create a list class, fill it with elements and use the methods from MyEnumerable module.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -42,7 +42,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Takes code morse with an input]**
+- **[Create a list and use methods from a module]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,8 +62,8 @@ ruby installed
 
 Clone this repository to your desired folder:
 
-  git clone git@github.com:Oscar-Espinoza/code-morse-decoder.git
-  cd code-morse-decoder
+  git clone git@github.com:Oscar-Espinoza/Enumerable.git
+  cd Enumerable
 
 
 ### Install
@@ -76,7 +76,8 @@ Install this project with:
 
 To run the project, execute the following command:
 
-ruby app.rb
+- irb
+- require 'my_list.rb'
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,6 +97,10 @@ ruby app.rb
 - GitHub: [@juanpa8830](https://github.com/Juanpa8830)
 - LinkedIn: [Juan Pablo Guerrero](https://www.linkedin.com/in/juanpabloguerrerorios/)
 
+👤 **Juan Zorrilla**
+
+- GitHub: [@Swarzstein](https://github.com/Swarzstein)
+- LinkedIn: [Juan Zorrilla](https://www.linkedin.com/in/juan-a-zorrilla/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -104,10 +109,8 @@ ruby app.rb
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Code messages into morse code]**
-- [ ] **[Pentagon hacking]**
+- [ ] **[Additional methods]**
+- [ ] **[Testing]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,7 +120,7 @@ ruby app.rb
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Oscar-Espinoza/code-morse-decoder/issues).
+Feel free to check the [issues page](https://github.com/Oscar-Espinoza/Enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +129,5 @@ Feel free to check the [issues page](https://github.com/Oscar-Espinoza/code-mors
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
